@@ -25,6 +25,8 @@ def printf(out):
     log_output.close()
 
 
+
+
 # 找到所有附件
 def down(url):
     global r, file_count, sum_pic, down_name, down_size
