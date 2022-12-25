@@ -100,6 +100,7 @@ else:
     os.makedirs(tag)
     os.chdir(f'.\\{tag}')
 
+
 sum_pic = 0
 from_page=eval(input('开始页数：'))
 for page in range(from_page, 22222):

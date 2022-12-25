@@ -1,2 +1,3 @@
-import os
-print(os.path.getsize('1.7z'))
+abs='asuchdus.ca/ca\d/\blcxcd'
+if './' in abs:
+    print('True')
